@@ -14,10 +14,10 @@
 <hr>
 
 <div style="display: flex">
-  <a href="#" style="flex: 1; margin:20px">
+  <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=andsfonseca&theme=default&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5" />
   </a>
-  <a href="#" style="flex: 1; margin:20px">
+  <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8" /> 
   </a>
 </div>
