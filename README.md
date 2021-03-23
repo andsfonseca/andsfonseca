@@ -60,6 +60,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8" /> 
   </a>
 </div>
+<hr>
+
+### Find me?
+
+<p align="left">
+<a href="https://linkedin.com/in/andsfonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="andsfonseca" height="30" width="40" /></a>
+</p>
+
 <!--
 **andsfonseca/andsfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
