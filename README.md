@@ -54,12 +54,18 @@
 <hr>
 <div style="display: flex">
   <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andsfonseca&theme=default&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andsfonseca&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5&bg_color=00000000&hide_border=true&theme=darcula" />
   </a>
   <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&theme=darcula&hide=jupyter%20notebook" /> 
   </a>
 </div>
+<!--
+<div style="display:flex;align-items: center;justify-content: center;">
+    <a href="#" style="flex: 1;">
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=andsfonseca&theme=great-gatsby&hide_border=true&background=00000000" />
+    </a>
+</div> -->
 <hr>
 
 ### Find me?
@@ -70,4 +76,4 @@
 
 <!--
 **andsfonseca/andsfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
