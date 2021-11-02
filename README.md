@@ -53,10 +53,10 @@
 </p>
 <hr>
 <div style="display: flex">
-  <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
+  <a href="https://github.com/andsfonseca" style="flex: 1;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=andsfonseca&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5&bg_color=00000000&hide_border=true&theme=darcula" />
   </a>
-  <a href="https://github.com/andsfonseca" style="flex: 1; margin:20px">
+  <a href="https://github.com/andsfonseca" style="flex: 1;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&theme=darcula&hide=jupyter%20notebook" /> 
   </a>
 </div>
