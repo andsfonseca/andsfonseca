@@ -11,11 +11,12 @@
 - 💬 Ask me about game or web development and I'll not be responsible for what comes next
 - ⚡ Fun fact: one plus one is two. This is very easy.
 <hr>
-<details style="margin-bottom:0px">
-  <summary><h3>Skills</h3></summary>
+
+### Skills
 
 #### Languanges
-    
+
+<p>   
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -29,9 +30,11 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
 #### Libraries and Frameworks
 
+<p> 
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS"/>
@@ -45,9 +48,11 @@
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/>
-
+</p>
+  
 #### Softwares
 
+<p> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
@@ -61,27 +66,26 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal"/>
- 
+</p>
+
 #### Operational systems
 
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>   
-</details>
-<details>
-    <summary><h3>Statistics</h3></summary>
-    <a href="https://github.com/andsfonseca">
+</p>
+
+### Statistics
+
+<a href="https://github.com/andsfonseca">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=andsfonseca&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5&bg_color=00000000&hide_border=true&theme=darcula" />
   </a>
-      <a href="https://github.com/andsfonseca">
+<a href="https://github.com/andsfonseca">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&theme=darcula&hide=jupyter%20notebook" /> 
   </a>
    
-</details>
-
-  
-
 </div>
 <!--
 <div style="display:flex;align-items: center;justify-content: center;">
