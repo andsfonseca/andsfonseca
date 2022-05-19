@@ -79,13 +79,14 @@
 
 ### Statistics
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andsfonseca&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5&bg_color=00000000&hide_border=true&theme=github_dark">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=andsfonseca&show_icons=true&count_private=true&include_all_commits=True&line_height=24.5&bg_color=00000000&text_color=000000&title_color=012942&hide_border=true&theme=github_dark">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&theme=github_dark&hide=jupyter%20notebook">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&text_color=000000&title_color=012942&hide_border=true&theme=github_dark&hide=jupyter%20notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&theme=github_dark&hide=jupyter%20notebook&card_width=250">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api/top-langs/?username=andsfonseca&layout=compact&langs_count=8&bg_color=00000000&text_color=000000&title_color=012942&hide_border=true&theme=github_dark&hide=jupyter%20notebook&card_width=250">
 </picture>
 
 <p align="center">
