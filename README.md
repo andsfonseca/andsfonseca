@@ -4,7 +4,7 @@
 
 ### Github asked to expose me, so...
 
-- 🔭 I’m currently working on my masters in informatics
+- 🔭 I’m currently working on my PhD in informatics
 - 🌱 I’m currently learning a little of everything
 - 👯 I try to collaborate in whatever I can
 - 🤔 I’m always looking for help
